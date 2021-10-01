@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Rockjohn George
+- 👀 I’m interested in pure PHP, Javascript
+
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
